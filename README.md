@@ -5,6 +5,8 @@
 LookML is a data modeling language for describing dimensions, fields, aggregates and relationships based on SQL.
 
 Deployment 1 - 2025-12-23 6:45 AM UTC
+Deployment 2 - 2025-12-23 8:55 AM UTC
+
 
 LookML is powerful because it:
 
